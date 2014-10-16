@@ -1,0 +1,12 @@
+onLineResume=http://www.geocities.com/partypoooperz/resume/
+&forumLink=http://www.geocities.com/partypoooperz/forums/
+&myEmailText=partypoooperz@gmail.com
+&myEmailAdd=mailto:partypoooperz@gmail.com
+&link_1=http://www.geocities.com/partypoooperz/portfolio/sheep_game.zip
+&link_2=http://www.geocities.com/partypoooperz/portfolio/ocr.zip
+&link_3=http://www.geocities.com/partypoooperz/portfolio/mp3_player.zip
+&link_4=http://www.geocities.com/partypoooperz/portfolio/java_notepad.zip
+&link_5=http://www.geocities.com/partypoooperz/portfolio/bomberman.zip
+&link_6=http://www.geocities.com/partypoooperz/portfolio/futurama.zip
+&link_7=http://www.geocities.com/partypoooperz/portfolio/layout.zip
+&link_8=http://www.geocities.com/partypoooperz/includes/error/construction.html
